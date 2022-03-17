@@ -1,0 +1,8 @@
+debug
+exe
+release
+.git
+/.qmake.stash
+*.pro.user
+*.pro.user.*
+*.autosave
